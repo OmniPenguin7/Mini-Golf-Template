@@ -7,6 +7,12 @@
       "dependencies": {},
       "hash": "8a8fa5a9659a6d63f196391c71e06c4286c8acd7"
     },
+    "com.tripolygon.umodeler-x": {
+      "version": "file:com.tripolygon.umodeler-x-1.0.1-basic/com.tripolygon.umodeler-x-1.0.1-basic.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.8.17",
       "depth": 1,
