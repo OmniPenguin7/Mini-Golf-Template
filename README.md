@@ -1,1 +1,3 @@
-# MiniGolfTemplate
+Sheket Skies
+
+Welcome traveller!
